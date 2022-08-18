@@ -1,3 +1,4 @@
-[noshowappointments-kagglev2-may-2016.csv](https://github.com/psalmGod/ALX-Projects/files/9172930/noshowappointments-kagglev2-may-2016.csv)
+
 # ALX-Projects
-All analysis project for ALX Nano Degree program
+Analysis on We rate dogs data for the project completion af ALX Nanodegree program
+all files used and code used for this analysis are embedded in this repository together with the visualizations and a zip file off all files for easy download
